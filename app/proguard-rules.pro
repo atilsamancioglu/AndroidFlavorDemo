@@ -19,3 +19,6 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+#keep all classes inside of model package
+-keep class com.atilsamancioglu.flavordemo.model.*
